@@ -27,6 +27,6 @@
 - [] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
-#### Team Coordinator GitHub Username: Adarsh Bhandari ()
+#### Team Coordinator GitHub Username: Adarsh Bhandari (AdarshBhandari826781027)
 
-#### Team Members Krutik Patak, Anish Chintamaneni (canish99), Jay Sharma (), Shravani Hariprasad (shravani-01), Sharanya Akkone (sharanya218)
+#### Team Members Krutik Patak (KrutikBDA), Anish Chintamaneni (canish99), Jay Sharma (JaySharmaSdsu), Shravani Hariprasad (shravani-01), Sharanya Akkone (sharanya218), Adarsh Bhandari (AdarshBhandari826781027)
