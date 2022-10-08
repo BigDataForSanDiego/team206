@@ -10,10 +10,9 @@
 ##### Identify and analyze the San Diego area hotspot that generates the most tweets with a predisposition toward one of the three mental health conditions of depression, stress, or anxiety.
 
 #### A visual
-![Heat map](([https://media.nbcsandiego.com/2022/04/2022-Heat-Map-from-Taskforce-copy.png?resize=1024,576]))  
 
 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
+<img height="10%" width="80%" alt="heat map" src="https://media.nbcsandiego.com/2022/04/2022-Heat-Map-from-Taskforce-copy.png?resize=1024,576](https://media.nbcsandiego.com/2022/04/2022-Heat-Map-from-Taskforce-copy.png?fit=1920%2C1080&quality=85&strip=all&w=1575&h=886&crop=1"> 
 
 
 #### Hackathon Theme(s) (check a box(es))
@@ -28,6 +27,6 @@
 - [] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
-#### Team Coordinator GitHub Username: Adarsh Bhandari
+#### Team Coordinator GitHub Username: Adarsh Bhandari ()
 
-#### Team Members Krutik Patak, Anish Chintamaneni, Jay Sharma, Shravani Hariprasad (shravani-01), Sharanya Akkone (sharanya218)
+#### Team Members Krutik Patak, Anish Chintamaneni (canish99), Jay Sharma (), Shravani Hariprasad (shravani-01), Sharanya Akkone (sharanya218)
